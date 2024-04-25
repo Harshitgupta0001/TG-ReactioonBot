@@ -1,7 +1,7 @@
 <div align="center"><h1>Telegram Reaction Bot</h1>
 <b>An open-source Python Telegram bot that reacts to every message.</b>
 
-<a href="https://t.me/DrReactBot"><b>Demo Bot</b></a>
+<a href="https://t.me/Reaction_02_bot"><b>Demo Bot</b></a>
 </div>
 
 ## **📑 INDEX**
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 <a name="variables"></a>
 
 ## 📝 Variables
-**The variables provided below should either be completed within the [config.py](https://github.com/TheCaduceus/TG-ReactionBot/blob/main/bot/config.py) file or configured as environment variables.**
+**The variables provided below should either be completed within the [config.py](https://github.com/ Harshitgupta0001/TG-ReactioonBot/blob/main/bot/config.py) file or configured as environment variables.**
 * `API_ID`|`TG_API_ID`: API ID of your Telegram account, can be obtained from [My Telegram](https://my.telegram.org). `int`
 * `API_HASH`|`TG_API_HASH`: API hash of your Telegram account, can be obtained from [My Telegram](https://my.telegram.org). `str`
 * `BOT_TOKEN`|`TG_BOT_TOKEN`: Telegram API token of your bot, can be obtained from [@BotFather](https://t.me/BotFather). `str`
