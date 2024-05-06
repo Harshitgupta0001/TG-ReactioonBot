@@ -21,7 +21,7 @@ async def start_command(_, msg: Message):
                     InlineKeyboardButton(text='Add me to chat', url=f'https://t.me/{Telegram.BOT_USERNAME}?startgroup=botstart')
                 ],
                 [
-                    InlineKeyboardButton(text='Source Code', url='www.youtube.com')
+                    InlineKeyboardButton(text='Source Code', url='www.multimovies.space')
                 ]
             ]
         )
