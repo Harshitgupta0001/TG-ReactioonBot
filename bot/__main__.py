@@ -1,5 +1,5 @@
 from bot import TelegramBot, logger
 
-if __name__ == '__main__':
+if __name__ == 'main':
     logger.info('Initializing...')
     TelegramBot.run()
